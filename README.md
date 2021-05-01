@@ -1,4 +1,4 @@
-# REACT-YT-CLONE
+## REACT-YT-CLONE
 Project link to to get key: https://console.cloud.google.com/cloud-resource-manager
 
 YouTube API Docs: https://developers.google.com/youtube/v3/docs/
