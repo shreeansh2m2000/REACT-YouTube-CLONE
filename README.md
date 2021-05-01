@@ -8,5 +8,5 @@ Scopes : https://developers.google.com/youtube/v3/guides/auth/client-side-web-ap
 # ABOUT
 In this project we made a fully functional YouTube Clone using React , Redux ,Firebase and YouTube API.
 
-# LINK
+# LIVE LINK
 https://yt-clone-ef15a.web.app/
