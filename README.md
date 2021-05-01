@@ -10,6 +10,3 @@ In this project we made a fully functional YouTube Clone using React , Redux ,Fi
 
 # LINK
 https://yt-clone-ef15a.web.app/
-
-# ToDo
-- Liked videos
